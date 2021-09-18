@@ -368,7 +368,7 @@ body.js-focus-visible .baseFilter__link[data-focus-visible-added]:after {
   height: 250px;
   background: white;
   border-radius: 75px;
-  font-family: 'Montserrat', sans-serif;
+ font-family: 'Assistant-Regular';
   font-weight: lighter;
   letter-spacing: 2px;
   transition: 1s box-shadow;
@@ -486,8 +486,8 @@ body.js-focus-visible .baseFilter__link[data-focus-visible-added]:after {
 
 
 .title_text {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 19px;
+    line-height: 26px;
     text-transform: uppercase;
 }
 /*.workItem_orange {
