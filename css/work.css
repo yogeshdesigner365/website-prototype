@@ -383,7 +383,7 @@ body.js-focus-visible .baseFilter__link[data-focus-visible-added]:after {
   display: block;
   content: '';
   position: absolute;
-  width: 250px;
+  width: 300px;
   height: 250px;
   background: #FDA8CF;
   border-radius: 75px;
